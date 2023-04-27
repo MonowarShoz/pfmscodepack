@@ -9,3 +9,4 @@ export 'src/Data/Repository/auth_repo.dart';
 export 'src/Provider/user_config_provider.dart';
 export 'src/Provider/kormi_information_provider.dart';
 export 'src/Provider/pss_report_provider.dart';
+export 'src/Data/datasource/apiservices/apiservices/Dio/dio_client.dart';
